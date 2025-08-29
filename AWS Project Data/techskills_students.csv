@@ -1,0 +1,201 @@
+student_id,name,email,date_of_birth,address
+1,Yvonne Taylor,rushjanet@warren.info,2001-09-13,"257 Taylor Fords
+Wesleybury, MT 44678"
+2,Elizabeth Peters,brianbrown@johnson-lyons.com,2006-02-20,"78633 Patrick Rapid
+East Lawrencestad, VT 32074"
+3,Diana Lewis,richardsonjames@gmail.com,2000-09-15,"95851 Farley Fall
+East Barbarabury, RI 54352"
+4,Victor Espinoza,andrewsantiago@flores.com,2004-01-04,"9311 Jasmine Plaza
+West Michael, DC 08308"
+5,William Webb,theresawang@webb-deleon.org,1998-11-10,"790 Vicki Courts Apt. 364
+New Brandonburgh, AR 18045"
+6,Miss Emily Fuller,tyler78@hotmail.com,2004-08-18,"966 Howell Loaf Apt. 595
+Matthewstad, DC 86850"
+7,Joanne Patel,alison38@hotmail.com,1999-07-17,"3281 Kevin Mills Suite 148
+Carlsonberg, FL 31526"
+8,Paul Estes,fchen@larsen.info,2006-05-31,"971 Jose Lock Suite 284
+Jacquelinefort, MA 52429"
+9,Scott Grimes,ncox@hughes-andersen.info,2005-06-06,"120 Hughes Club Apt. 225
+Willisfort, MD 60219"
+10,James Reed,christopherweaver@floyd.com,2005-08-31,"4731 Wilson Greens Suite 762
+West Kevinside, LA 95890"
+11,Daniel Leonard,wcannon@jones-bennett.com,2001-08-31,"039 Brown Junctions
+Stevenport, MD 30814"
+12,Janet Stark,zacharyhill@yahoo.com,2001-11-19,"PSC 4966, Box 9853
+APO AA 02179"
+13,Sharon Hayes,crystal69@roberts.com,2005-07-15,"7205 Kathryn Camp Apt. 476
+Lake Samanthamouth, LA 76379"
+14,Mrs. Tracy Stokes,lisa63@garcia.com,2004-12-21,"3518 Smith Oval Apt. 346
+Monicafort, AL 09776"
+15,Sarah Gomez,zgreen@butler-lucas.com,1998-10-12,"12629 Karen Flats
+East Lindsaystad, CT 91630"
+16,Joshua Cuevas,lindsayavila@gmail.com,1999-05-08,"261 Brown Road Suite 318
+Port Wendy, VA 37648"
+17,Jason Cruz,tateraymond@medina.biz,2002-02-18,"1895 Lori Flat
+Port Davidton, KS 11820"
+18,Carol Ray,ilam@anderson.org,2004-06-24,"59393 Glenn Creek Apt. 134
+West Alan, MD 31458"
+19,Dustin Miller,jjohnson@malone.net,2006-07-12,"48348 Laura Forks
+Lake Victoriaville, MA 68165"
+20,Luis Mcgee,anthony42@gmail.com,2002-10-09,"021 Fitzgerald Island
+New Mathew, PA 14405"
+21,Mary Walker,nathandalton@green.com,2002-09-27,"6757 Hill Freeway
+Kevinburgh, IA 89082"
+22,Michael Morgan,kristenlawrence@hotmail.com,2002-09-01,"9786 Price Extension
+Watsonburgh, ND 33809"
+23,Lauren Bernard,hjones@gmail.com,1999-05-28,"PSC 8883, Box 2616
+APO AP 55869"
+24,David Davidson,amanda77@brown.com,2001-09-16,"89279 Martinez Locks Apt. 026
+Holtstad, DE 86347"
+25,Alan Hunter,jamespeterson@yahoo.com,2002-08-02,"01497 Cynthia Walk
+Port Charlesstad, WV 08022"
+26,James Woodard,sandra14@walker-gray.info,2002-08-05,"13956 Billy Lake
+Kyleland, WI 83538"
+27,Stacey Oliver,linda12@yahoo.com,2000-02-10,"13439 Ryan Pike
+Dianafort, PA 39623"
+28,Sara Jones,christophercohen@diaz.com,2004-03-17,"045 Mary Heights Apt. 119
+Rebeccaton, NM 37318"
+29,Debra Daniel,kburch@munoz-rivera.com,2003-09-19,"62563 Jennifer River
+New Melissa, WI 32309"
+30,Stacy Turner,jennifer95@gmail.com,1999-11-04,"039 Tran Tunnel Suite 042
+Fordport, DC 80196"
+31,Joseph Moreno,jacobfrazier@hotmail.com,2000-04-12,"077 Summers Passage
+South Regina, MA 03601"
+32,Anita Richardson,dsullivan@yahoo.com,2002-10-21,"1681 Serrano Forest
+Port Adamborough, CA 21756"
+33,Donna Patel,theodorecisneros@ferguson.com,2003-10-28,"12590 Robert Village Suite 661
+Michaelport, TX 16000"
+34,Richard Castaneda,karennelson@gmail.com,2003-01-30,"16551 Hickman Isle
+West Justinstad, SC 35143"
+35,Jeremy Peterson,yware@gmail.com,2005-04-22,"2135 Raymond Overpass
+Annestad, NY 71939"
+36,Gina Hill,ubarr@hunter-massey.com,2003-10-21,"6732 Lewis Row
+Port Anthonyville, OR 07687"
+37,Laura Lewis,terrellchristian@merritt.info,2002-11-22,"387 Cross Heights
+New Craigville, IA 61043"
+38,Timothy Gaines,teresa72@gmail.com,1999-07-07,"72901 Karen Greens
+Richardtown, CA 84664"
+39,Jonathan Beard,christina40@may-jones.com,2000-08-19,"064 Fisher Camp Suite 929
+Wilsonhaven, NM 69695"
+40,Brianna Castillo,bbarber@hotmail.com,2003-05-10,"Unit 4807 Box 7860
+DPO AP 25816"
+41,Paul Martin,gbarrett@gmail.com,2001-01-12,"455 Charles Land
+West Mckenzietown, MO 36743"
+42,Michael Pratt,zford@gmail.com,2004-12-09,"012 Ellis Falls Apt. 433
+Danielport, AZ 08409"
+43,Laura Griffin,leonard17@taylor.com,2005-01-21,"1010 Mark Station
+Lake Penny, NC 19920"
+44,Michael Carpenter,johnsonlisa@gmail.com,2001-12-01,"541 Martinez Village Suite 960
+Russoborough, WI 58016"
+45,Jordan Scott,rbrady@gmail.com,2004-10-26,"99318 Roberson Walks Apt. 141
+Gabrielleland, OR 78692"
+46,Paul Jackson,eric22@gmail.com,2003-01-08,"877 Zachary Walks
+Laurafort, MN 51086"
+47,Daniel Flowers,dbennett@barnes.info,2001-01-07,"372 Clark Spurs
+South Parkerside, AK 03742"
+48,Mitchell Sanchez,johnsonscott@gmail.com,1999-02-07,"3702 Joseph Causeway Suite 584
+Port Brendaburgh, AL 79320"
+49,Jay Holland,murphyjeffrey@hotmail.com,2005-11-20,"03694 Rivera Brook
+Luishaven, WV 54966"
+50,Samantha Reed,courtneyparker@robles-barton.com,2005-06-19,"Unit 4801 Box 6897
+DPO AP 41125"
+51,Lauren Sexton,curryjim@sellers.com,2006-04-09,"5605 Alisha Camp Apt. 303
+East Ricky, AK 64119"
+52,Sandra Todd,brianmcintosh@jordan.info,2005-04-28,"6825 Meredith Square Apt. 369
+Schneiderstad, OK 30106"
+53,Jennifer Beck,bdougherty@rojas.info,2003-07-02,"52453 Coleman Lodge
+Stevenmouth, NM 30880"
+54,Angela Chavez,mark35@yahoo.com,2005-06-08,"2940 Brown Well
+East Laurieland, TN 82804"
+55,Justin Powell,angelapatterson@daniels.net,1999-10-28,"03412 Joshua Glen
+Port Tylerfurt, IA 82052"
+56,Dana Mcgee,timothymitchell@lowe-frye.net,1998-10-23,"861 Edward Ports Suite 359
+East Amberborough, RI 05546"
+57,Sarah Perez,justingreen@yahoo.com,2005-12-08,"942 Johnson Lake Apt. 072
+South Darlenestad, AZ 85278"
+58,Cameron Morgan,hallen@gmail.com,2001-11-10,"2285 Megan Ranch Apt. 349
+North John, RI 33869"
+59,Nina Hawkins,kayla19@gmail.com,2005-04-06,"31156 Angelica Extension
+New Andreastad, IL 41030"
+60,David Hunt,ngardner@davis.com,2003-11-22,"713 Levine Squares
+Ericaborough, NE 19723"
+61,Robert Kim,pricedavid@willis-knapp.com,2004-03-23,"19401 Jennifer Rapid Suite 136
+Lake Penny, MS 87612"
+62,Donna Pearson,castillobradley@williams.org,2005-03-22,"2864 Carolyn Ford Suite 124
+South Triciaburgh, OH 21701"
+63,David Mendoza,kevin27@johnson-taylor.com,2002-06-18,"0012 Peck Ridges
+Ryanside, FL 34518"
+64,Kelly Mckay,cassandramyers@hernandez-hernandez.biz,2005-05-29,"9017 Anthony Radial
+New Christopher, NC 64898"
+65,Adam Rodriguez,donna84@sullivan.com,2006-03-02,"USNS Mccoy
+FPO AP 12295"
+66,Shannon Phillips,emily80@castillo-smith.biz,2002-07-04,"9105 Reyes Valley
+Port Michael, TN 28491"
+67,Ashley Wagner,johnwatson@martinez.com,2002-08-13,"5725 Carly Mountains Apt. 966
+Brendaport, AZ 06320"
+68,Kelli Moon,aporter@barker.com,2002-09-25,"481 Bryan Crest Suite 454
+South Stacy, OH 42958"
+69,Nancy Boyd,stephanie53@smith.biz,2004-08-19,"3905 Williams Valley Apt. 774
+North Patrick, KY 21778"
+70,Danielle Good,emily64@brown.info,2004-04-03,"978 Vincent Harbors Apt. 948
+West Katherine, UT 18309"
+71,Linda Zhang,jessicasmith@carter.com,2005-07-14,"2230 Christopher Stravenue
+Lake Ericashire, NJ 22843"
+72,Catherine Castillo,heidi95@bell-wong.com,2006-01-07,"73692 Walker Unions
+Port Bruce, AL 16564"
+73,Amber Jefferson,jbecker@chase.com,2004-02-26,"3712 Brown Field
+West Juanfurt, VA 31339"
+74,Gerald Carson,zday@yahoo.com,2005-08-16,"717 Natalie Track Suite 366
+New Jayborough, MN 46712"
+75,Nicole Thompson,steven74@medina.org,1998-10-26,"21761 Benjamin Brook Apt. 620
+Josephhaven, WI 28238"
+76,Laura Tucker,pattyalexander@martinez.biz,2001-10-18,"933 Jill Mills Apt. 580
+East Aliciaview, MA 65965"
+77,Kimberly Brown,vmccarthy@hotmail.com,1999-05-28,"1391 Erin Crossroad
+Carlaville, NC 76930"
+78,Rebecca Lucas,ruthscott@gmail.com,2006-03-12,"7377 Dale Club
+South Carolyn, MN 40736"
+79,Joseph King,rachelparks@hester.com,2001-07-15,"9170 Richards Dale
+New Rebecca, HI 02350"
+80,Karen Gonzalez,howardjeanne@gmail.com,2004-05-19,"07432 Lowe Trafficway Apt. 070
+Hartmanport, HI 34008"
+81,Stephen Smith,perkinsstephanie@woods-ayala.com,2003-10-22,"206 Victor Expressway Suite 883
+Michaelberg, CA 84966"
+82,Ryan Jackson,avilamichelle@yahoo.com,2006-05-30,"833 Richard Junctions Suite 236
+New Justinfurt, AZ 16379"
+83,David Lee,finleypamela@jackson.com,2006-05-25,"72193 Hall Bypass Apt. 484
+Wheelerfort, DE 13946"
+84,Hannah Fleming,jkennedy@gmail.com,2002-07-05,"861 Jason Isle
+South Audreyside, AK 58993"
+85,Christopher Allen,adamsims@mcbride-jordan.com,2001-05-11,"48439 Porter Inlet
+Jacquelineshire, UT 15306"
+86,Anne Wright,bradleyevan@gmail.com,2005-01-16,"565 Cody Groves
+Claystad, ND 19786"
+87,Mary Flynn,fcampos@villa.com,2001-04-28,"86142 Adrian Corner Suite 316
+North Juan, NM 11074"
+88,Jonathan Higgins,richardhooper@wise-chavez.com,1999-10-20,"4560 Jones Plains
+New Kathleen, RI 01416"
+89,Craig Melton,paula17@gmail.com,2006-02-07,"815 Holland Keys
+Donnafurt, NM 93814"
+90,Dana Porter,aaronstephens@dunn.com,2004-11-11,"23694 Bryant Burgs Apt. 090
+Myersland, MD 05153"
+91,Samantha Barker,hensleychristina@newman.biz,1998-08-21,"365 Warren Pass
+Russellside, OH 06809"
+92,Aaron Walker,rgreen@gmail.com,2001-04-28,"157 Brandon Courts Suite 470
+Port Justinland, WV 48025"
+93,Daniel Maddox,mitchellryan@brown.info,2004-01-19,"9077 Black Camp Apt. 789
+New Brandonshire, NM 02898"
+94,Timothy Myers,wtyler@yahoo.com,2006-03-16,"930 Joyce Via Apt. 363
+Johnsland, NH 33200"
+95,Dr. Kari Brooks DVM,nlee@yahoo.com,2003-02-16,"USNV Perez
+FPO AP 63129"
+96,Melanie Gallagher,stephen67@juarez.com,2005-07-03,"050 Simon Shore Apt. 432
+New Valerie, SC 16021"
+97,Francis Ortiz,sgarcia@mcpherson.com,2003-08-28,"0302 Jackson Overpass Apt. 167
+Haileychester, NC 34943"
+98,Melissa Ramos,gbrewer@gmail.com,2005-08-17,"637 Lopez Hills Apt. 599
+South Garrettview, AK 54268"
+99,Logan Turner II,joshua31@gmail.com,1999-09-17,"22650 Pamela Villages Apt. 078
+Lawrencehaven, MT 20717"
+100,Mary Mitchell,xbrown@gmail.com,2006-07-16,"048 Gonzalez Course Suite 970
+Freemanstad, PA 03473"
